@@ -1,0 +1,55 @@
+GEO.id,GEO.id2,GEO.display-label,GCT_STUB.target-geo-id,GCT_STUB.target-geo-id2,GCT_STUB.display-label,GCT_STUB.display-label,HD01,SUBHD02010101,SUBHD02010102,SUBHD02010103,SUBHD02010104,SUBHD02010105,SUBHD02010106,SUBHD020102,SUBHD0202,SUBHD0203
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographic area,Geographic area,Total population,Percent of total population - Race - One Race - White,Percent of total population - Race - One Race - Black or African American,Percent of total population - Race - One Race - American Indian and Alaska Native,Percent of total population - Race - One Race - Asian,Percent of total population - Race - One Race - Native Hawaiian and Other Pacific Islander,Percent of total population - Race - One Race - Some Other Race,Percent of total population - Race - Two or More Races,Percent of total population - Hispanic or Latino (of any race),"Percent of total population - White Alone, not Hispanic or Latino"
+0100000US,,United States,0100000US,,United States,United States,308745538(r38234),72.4,12.6,0.9,4.8,0.2,6.2,2.9,16.3,63.7
+0100000US,,United States,0400000US01,01,United States - Alabama,Alabama,4779736(r38235),68.5,26.2,0.6,1.1,0.1,2.0,1.5,3.9,67.0
+0100000US,,United States,0400000US02,02,United States - Alaska,Alaska,710231(r38823),66.7,3.3,14.8,5.4,1.0,1.6,7.3,5.5,64.1
+0100000US,,United States,0400000US04,04,United States - Arizona,Arizona,6392017,73.0,4.1,4.6,2.8,0.2,11.9,3.4,29.6,57.8
+0100000US,,United States,0400000US05,05,United States - Arkansas,Arkansas,2915918(r39193),77.0,15.4,0.8,1.2,0.2,3.4,2.0,6.4,74.5
+0100000US,,United States,0400000US06,06,United States - California,California,37253956,57.6,6.2,1.0,13.0,0.4,17.0,4.9,37.6,40.1
+0100000US,,United States,0400000US08,08,United States - Colorado,Colorado,5029196,81.3,4.0,1.1,2.8,0.1,7.2,3.4,20.7,70.0
+0100000US,,United States,0400000US09,09,United States - Connecticut,Connecticut,3574097,77.6,10.1,0.3,3.8,0.0,5.6,2.6,13.4,71.2
+0100000US,,United States,0400000US10,10,United States - Delaware,Delaware,897934,68.9,21.4,0.5,3.2,0.0,3.4,2.7,8.2,65.3
+0100000US,,United States,0400000US11,11,United States - District of Columbia,District of Columbia,601723(r39494),38.5,50.7,0.3,3.5,0.1,4.1,2.9,9.1,34.8
+0100000US,,United States,0400000US12,12,United States - Florida,Florida,18801310(r40184),75.0,16.0,0.4,2.4,0.1,3.6,2.5,22.5,57.9
+0100000US,,United States,0400000US13,13,United States - Georgia,Georgia,9687653(r41102),59.7,30.5,0.3,3.2,0.1,4.0,2.1,8.8,55.9
+0100000US,,United States,0400000US15,15,United States - Hawaii,Hawaii,1360301,24.7,1.6,0.3,38.6,10.0,1.2,23.6,8.9,22.7
+0100000US,,United States,0400000US16,16,United States - Idaho,Idaho,1567582(r41542),89.1,0.6,1.4,1.2,0.1,5.1,2.5,11.2,84.0
+0100000US,,United States,0400000US17,17,United States - Illinois,Illinois,12830632,71.5,14.5,0.3,4.6,0.0,6.7,2.3,15.8,63.7
+0100000US,,United States,0400000US18,18,United States - Indiana,Indiana,6483802,84.3,9.1,0.3,1.6,0.0,2.7,2.0,6.0,81.5
+0100000US,,United States,0400000US19,19,United States - Iowa,Iowa,3046355,91.3,2.9,0.4,1.7,0.1,1.8,1.8,5.0,88.7
+0100000US,,United States,0400000US20,20,United States - Kansas,Kansas,2853118,83.8,5.9,1.0,2.4,0.1,3.9,3.0,10.5,78.2
+0100000US,,United States,0400000US21,21,United States - Kentucky,Kentucky,4339367,87.8,7.8,0.2,1.1,0.1,1.3,1.7,3.1,86.3
+0100000US,,United States,0400000US22,22,United States - Louisiana,Louisiana,4533372,62.6,32.0,0.7,1.5,0.0,1.5,1.6,4.2,60.3
+0100000US,,United States,0400000US23,23,United States - Maine,Maine,1328361,95.2,1.2,0.6,1.0,0.0,0.3,1.6,1.3,94.4
+0100000US,,United States,0400000US24,24,United States - Maryland,Maryland,5773552(r42264),58.2,29.4,0.4,5.5,0.1,3.6,2.9,8.2,54.7
+0100000US,,United States,0400000US25,25,United States - Massachusetts,Massachusetts,6547629,80.4,6.6,0.3,5.3,0.0,4.7,2.6,9.6,76.1
+0100000US,,United States,0400000US26,26,United States - Michigan,Michigan,9883640(r45127),78.9,14.2,0.6,2.4,0.0,1.5,2.3,4.4,76.6
+0100000US,,United States,0400000US27,27,United States - Minnesota,Minnesota,5303925,85.3,5.2,1.1,4.0,0.0,1.9,2.4,4.7,83.1
+0100000US,,United States,0400000US28,28,United States - Mississippi,Mississippi,2967297,59.1,37.0,0.5,0.9,0.0,1.3,1.1,2.7,58.0
+0100000US,,United States,0400000US29,29,United States - Missouri,Missouri,5988927,82.8,11.6,0.5,1.6,0.1,1.3,2.1,3.5,81.0
+0100000US,,United States,0400000US30,30,United States - Montana,Montana,989415,89.4,0.4,6.3,0.6,0.1,0.6,2.5,2.9,87.8
+0100000US,,United States,0400000US31,31,United States - Nebraska,Nebraska,1826341,86.1,4.5,1.0,1.8,0.1,4.3,2.2,9.2,82.1
+0100000US,,United States,0400000US32,32,United States - Nevada,Nevada,2700551,66.2,8.1,1.2,7.2,0.6,12.0,4.7,26.5,54.1
+0100000US,,United States,0400000US33,33,United States - New Hampshire,New Hampshire,1316470,93.9,1.1,0.2,2.2,0.0,0.9,1.6,2.8,92.3
+0100000US,,United States,0400000US34,34,United States - New Jersey,New Jersey,8791894(r46246),68.6,13.7,0.3,8.3,0.0,6.4,2.7,17.7,59.3
+0100000US,,United States,0400000US35,35,United States - New Mexico,New Mexico,2059179(r46748),68.4,2.1,9.4,1.4,0.1,15.0,3.7,46.3,40.5
+0100000US,,United States,0400000US36,36,United States - New York,New York,19378102,65.7,15.9,0.6,7.3,0.0,7.4,3.0,17.6,58.3
+0100000US,,United States,0400000US37,37,United States - North Carolina,North Carolina,9535483,68.5,21.5,1.3,2.2,0.1,4.3,2.2,8.4,65.3
+0100000US,,United States,0400000US38,38,United States - North Dakota,North Dakota,672591,90.0,1.2,5.4,1.0,0.0,0.5,1.8,2.0,88.9
+0100000US,,United States,0400000US39,39,United States - Ohio,Ohio,11536504,82.7,12.2,0.2,1.7,0.0,1.1,2.1,3.1,81.1
+0100000US,,United States,0400000US40,40,United States - Oklahoma,Oklahoma,3751351,72.2,7.4,8.6,1.7,0.1,4.1,5.9,8.9,68.7
+0100000US,,United States,0400000US41,41,United States - Oregon,Oregon,3831074,83.6,1.8,1.4,3.7,0.3,5.3,3.8,11.7,78.5
+0100000US,,United States,0400000US42,42,United States - Pennsylvania,Pennsylvania,12702379,81.9,10.8,0.2,2.7,0.0,2.4,1.9,5.7,79.5
+0100000US,,United States,0400000US44,44,United States - Rhode Island,Rhode Island,1052567,81.4,5.7,0.6,2.9,0.1,6.0,3.3,12.4,76.4
+0100000US,,United States,0400000US45,45,United States - South Carolina,South Carolina,4625364,66.2,27.9,0.4,1.3,0.1,2.5,1.7,5.1,64.1
+0100000US,,United States,0400000US46,46,United States - South Dakota,South Dakota,814180(r48166),85.9,1.3,8.8,0.9,0.0,0.9,2.1,2.7,84.7
+0100000US,,United States,0400000US47,47,United States - Tennessee,Tennessee,6346105,77.6,16.7,0.3,1.4,0.1,2.2,1.7,4.6,75.6
+0100000US,,United States,0400000US48,48,United States - Texas,Texas,25145561(r48514),70.4,11.8,0.7,3.8,0.1,10.5,2.7,37.6,45.3
+0100000US,,United States,0400000US49,49,United States - Utah,Utah,2763885,86.1,1.1,1.2,2.0,0.9,6.0,2.7,13.0,80.4
+0100000US,,United States,0400000US50,50,United States - Vermont,Vermont,625741,95.3,1.0,0.4,1.3,0.0,0.3,1.7,1.5,94.3
+0100000US,,United States,0400000US51,51,United States - Virginia,Virginia,8001024,68.6,19.4,0.4,5.5,0.1,3.2,2.9,7.9,64.8
+0100000US,,United States,0400000US53,53,United States - Washington,Washington,6724540,77.3,3.6,1.5,7.2,0.6,5.2,4.7,11.2,72.5
+0100000US,,United States,0400000US54,54,United States - West Virginia,West Virginia,1852994,93.9,3.4,0.2,0.7,0.0,0.3,1.5,1.2,93.2
+0100000US,,United States,0400000US55,55,United States - Wisconsin,Wisconsin,5686986,86.2,6.3,1.0,2.3,0.0,2.4,1.8,5.9,83.3
+0100000US,,United States,0400000US56,56,United States - Wyoming,Wyoming,563626,90.7,0.8,2.4,0.8,0.1,3.0,2.2,8.9,85.9
+0100000US,,United States,0400000US72,72,United States - Puerto Rico,Puerto Rico,3725789(r49850),75.8,12.4,0.5,0.2,0.0,7.8,3.3,99.0,0.7

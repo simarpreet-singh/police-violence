@@ -1,0 +1,16 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+GCT_STUB.target-geo-id,Target Geo Id
+GCT_STUB.target-geo-id2,Target Geo Id2
+GCT_STUB.display-label,Geographic area,GCT_STUB.display-label
+HD01,Total population
+SUBHD02010101,Percent of total population - Race - One Race - White
+SUBHD02010102,Percent of total population - Race - One Race - Black or African American
+SUBHD02010103,Percent of total population - Race - One Race - American Indian and Alaska Native
+SUBHD02010104,Percent of total population - Race - One Race - Asian
+SUBHD02010105,Percent of total population - Race - One Race - Native Hawaiian and Other Pacific Islander
+SUBHD02010106,Percent of total population - Race - One Race - Some Other Race
+SUBHD020102,Percent of total population - Race - Two or More Races
+SUBHD0202,Percent of total population - Hispanic or Latino (of any race)
+SUBHD0203,"Percent of total population - White Alone, not Hispanic or Latino"
